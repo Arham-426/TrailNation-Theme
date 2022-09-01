@@ -1,0 +1,333 @@
+@media (max-width: 768px){
+    nav ul{
+        display: none;
+    }
+    .background1{
+        background-position: center;
+    }
+    .content1-section1{
+        width: 40%;
+        top: 40%;
+        left: 50%;
+    }
+    .content1-section1 h1{
+        font-size: 30px;
+    }
+    .b1{
+        width: 100px;
+    }
+    .content2-section1{
+        font-size: 12.5px;
+        height: 45%;
+    }
+    .box1{
+        position: relative;
+        height: 33.33%;
+        width: 100%;
+    }
+    .box2{
+        position: relative;
+        width: 100%;
+        left: 0%;
+        height: 33.33%;
+    }
+    .box3{
+        position: relative;
+        width: 100%;
+        left: 0%;
+        height: 33.33%;
+    }
+    .section-shop{
+        margin-top: 250px;
+        height: 150vh;
+    }
+    .box4{
+        position: absolute;
+        height: 30%;
+        width: 40%;
+        left: 10%;
+        top: 15%;
+    }
+    .box5{
+        position: absolute;
+        height: 30%;
+        width: 40%;
+        top: 15%;
+        left: 50%;
+    }
+    .box6{
+        position: absolute;
+        height: 30%;
+        width: 40%;
+        left: 10%;
+        top: 54.5%;
+    }
+    .box7{
+        position: absolute;
+        height: 30%;
+        width: 40%;
+        top: 54.5%;
+        left: 50%;
+    }
+    .box4 h2{
+        margin-top: 270px;
+    }
+    .box5 h2{
+        margin-top: 270px;
+    }
+    .box6 h2{
+        margin-top: 270px;
+    }
+    .box7 h2{
+        margin-top: 270px;
+    }
+    .section-camping{
+        height: 90vh;
+    }
+    .camping-content{
+        position: absolute;
+        height: 45%;
+        width: 50%;
+    }
+    .section-tents{
+        height: 150vh;
+    }
+    .box8{
+        position: absolute;
+        height: 30%;
+        width: 40%;
+        left: 10%;
+        top: 15%;
+    }
+    .box9{
+        position: absolute;
+        height: 30%;
+        width: 40%;
+        top: 15%;
+        left: 50%;
+    }
+    .box10{
+        position: absolute;
+        height: 30%;
+        width: 40%;
+        left: 10%;
+        top: 54.5%;
+    }
+    .box11{
+        position: absolute;
+        height: 30%;
+        width: 40%;
+        top: 54.5%;
+        left: 50%;
+    }
+    .box8 h2{
+        margin-top: 270px;
+    }
+    .box9 h2{
+        margin-top: 270px;
+    }
+    .box10 h2{
+        margin-top: 270px;
+    }
+    .box11 h2{
+        margin-top: 270px;
+    }
+    .content1-section-forest{
+        width: 60%;
+        top: 40%;
+        left: 20%;
+    }
+    .content1-section-forest h1{
+        font-size: 30px;
+    }
+    .b3{
+        width: 150px;
+    }
+    .section-jacket{
+        height: 80vh;
+    }
+    .content-jacket{
+        position: absolute;
+        height: 100%;
+        width: 50%;
+        left: 50%;
+        top: 0%;
+    }
+    .inputc2{
+        left: -5.5%;
+    }
+    .content-jacket p{
+        margin-top: 70px;
+    }
+    .section-brands img{
+        margin-top: 5%;
+        height: 80px;
+        width: 100px;
+    }
+    .section-blog{
+        height: 70vh;
+        font-size: 13px;
+    }
+    .section-stardust{
+        background-position: center;
+    }
+    .content-stardust{
+        width: 80%;
+        left: -5%;
+    }
+    .b4{
+        top: 110px;
+    }
+}
+@media (max-width: 480px){
+    .content1-section1{
+        width: 50%;
+        height: 20%;
+        top: 40%;
+        left: 40%;
+    }
+    .b1{
+        height: 40px;
+    }
+    .section-shop{
+        height: 170vh;
+    }
+    .box4{
+        position: absolute;
+        height: 20%;
+        width: 60%;
+        top: 7%;
+        left: 20%;
+    }
+    .box5{
+        position: absolute;
+        height: 20%;
+        width: 60%;
+        left: 20%;
+        top: 30%;
+    }
+    .box6{
+        position: absolute;
+        height: 20%;
+        width: 60%;
+        left: 20%;
+        top: 52%;
+    }
+    .box7{
+        position: absolute;
+        height: 20%;
+        width: 60%;
+        top: 75%;
+        left: 20%;
+    }
+    .box4 h2{
+        margin-top: 200px;
+    }
+    .box5 h2{
+        margin-top: 200px;
+    }
+    .box6 h2{
+        margin-top: 200px;
+    }
+    .box7 h2{
+        margin-top: 200px;
+    }
+    .camping-content{
+        position: absolute;
+        height: 50%;
+        width: 60%;
+    }
+    .b2{
+        margin-top: 12%;
+        width: 120px;
+    }
+    .section-tents{
+        height: 170vh;
+    }
+    .section-tents h1{
+        font-size: 30px;
+        margin-left: 40%;
+    }
+    .box8{
+        position: absolute;
+        height: 20%;
+        width: 60%;
+        top: 7%;
+        left: 20%;
+    }
+    .box9{
+        position: absolute;
+        height: 20%;
+        width: 60%;
+        left: 20%;
+        top: 30%;
+    }
+    .box10{
+        position: absolute;
+        height: 20%;
+        width: 60%;
+        left: 20%;
+        top: 52%;
+    }
+    .box11{
+        position: absolute;
+        height: 20%;
+        width: 60%;
+        top: 75%;
+        left: 20%;
+    }
+    .box8 h2{
+        margin-top: 200px;
+    }
+    .box9 h2{
+        margin-top: 200px;
+    }
+    .box10 h2{
+        margin-top: 200px;
+    }
+    .box11 h2{
+        margin-top: 200px;
+    }
+    .section-forest{
+        height: 80vh;
+    }
+    .content1-section-forest{
+        height: 20%;
+        width: 80%;
+        left: 10%;
+    }
+    .b3{
+        margin-left: -5%;
+    }
+    .section-jacket{
+        height: 70vh;
+    }
+    .content-jacket{
+        font-size: 11px;
+    }
+    .inputc2{
+        left: -13.5%;
+    }
+    .section-brands{
+        height: 40vh;
+    }
+    .section-brands img{
+        margin-top: 5%;
+        height: 80px;
+        width: 150px;
+        margin-left: -5%;
+    }
+    .section-blog{
+        height: 70vh;
+    }
+}
+.secttion-follow{
+    position: relative;
+    height: 60vh;
+}
+.bestsell1{
+    height: 300px;
+}
+.secttion-follow h1{
+    margin-left: -10%;
+}

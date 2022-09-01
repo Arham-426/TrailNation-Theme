@@ -1,0 +1,518 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    position: relative;
+    height: 140vh;
+}
+nav{
+    position: absolute;
+    height: 7%;
+    width: 100%;
+}
+nav ul{
+    float: left;
+    margin-left: 60%;
+    margin-top: -2%;
+}
+nav ul li{
+    display: inline-block;
+    padding-left: 50px;
+}
+nav h1{
+    font-size: 33px;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.background1{
+    position: absolute;
+    height: 68%;
+    width: 100%;
+    top: 7%;
+    background-image: url(../assets/background1.jpg);
+    background-position: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.content1-section1{
+    position: absolute;
+    height: 18%;
+    width: 30%;
+    left: 55%;
+    top: 38%;
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+}
+.content1-section1 h1{
+    font-size: 37px;
+    color: white;
+    margin-top: 3%;
+}
+.b1{
+    position: absolute;
+    height: 35%;
+    width: 30%;
+    left: 32%;
+    top: 70%;
+    background-color: transparent;
+    border: 3px solid rgb(189, 189, 189);
+    font-size: 12px;
+}
+.b1 a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.content2-section1{
+    position: absolute;
+    height: 23%;
+    width: 100%;
+    top: 74.9%;
+    background-color: rgb(232, 227, 216);
+    text-align: center;;
+}
+.box1{
+    position: absolute;
+    height: 100%;
+    width: 33.33%;
+    padding-top: 2%;
+}
+.box2{
+    position: absolute;
+    height: 100%;
+    width: 33.33%;
+    left: 33.33%;
+    padding-top: 2%;
+}
+.box3{
+    position: absolute;
+    height: 100%;
+    width: 33.33%;
+    left: 66.66%;
+    padding-top: 2%;
+}
+.content2-section1 p{
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: left;
+    line-height: 150%;
+}
+.section-shop{
+    position: relative;
+    height: 80vh;
+    text-align: center;
+}
+.box4{
+    position: absolute;
+    height: 80%;
+    width: 25%;
+    top: 20%;
+}
+.box5{
+    position: absolute;
+    height: 80%;
+    width: 25%;
+    top: 20%;
+    left: 25%;
+}
+.box6{
+    position: absolute;
+    height: 80%;
+    width: 25%;
+    top: 20%;
+    left: 50%;
+}
+.box7{
+    position: absolute;
+    height: 80%;
+    width: 25%;
+    top: 20%;
+    left: 75%;
+}
+.bestsell1{
+    position: absolute;
+    height: 80%;
+    width: 90%;
+    left: 5%;
+}
+.box4 h2{
+    margin-top: 110%;
+}
+.box5 h2{
+    margin-top: 110%;
+}
+.box6 h2{
+    margin-top: 110%;
+}
+.box7 h2{
+    margin-top: 110%;
+}
+.section-camping{
+    position: relative;
+    height: 100vh;
+    background-image: url(../assets/background2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.camping-content{
+    position: absolute;
+    height: 40%;
+    width: 30%;
+    top: 20%;
+    left: 5%;
+    background-color: white;
+}
+.camping-content h4{
+    margin-top: 10%;
+   color: orange;
+   text-align: center;
+}
+.camping-content h1{
+    font-size: 35px;
+   margin-left: 2%;
+}
+.camping-content p{
+    margin-left: 2%;
+}
+.b2{
+    position: absolute;
+    height: 13%;
+    width: 28%;
+    left: 2%;
+    top: 70%;
+    background-color: black;
+    border: 3px solid rgb(189, 189, 189);
+    font-size: 12px;
+}
+.b2 a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.section-tents{
+    position: relative;
+    height: 100vh;
+}
+.section-tents h1{
+    margin-left: 45%;
+    padding-top: 3%;
+    font-size: 40px;
+}
+.section-tents p{
+    margin-left: 10%;
+}
+.box8{
+    position: absolute;
+    height: 80%;
+    width: 25%;
+    top: 20%;
+}
+.box9{
+    position: absolute;
+    height: 80%;
+    width: 25%;
+    top: 20%;
+    left: 25%;
+}
+.box10{
+    position: absolute;
+    height: 80%;
+    width: 25%;
+    top: 20%;
+    left: 50%;
+}
+.box11{
+    position: absolute;
+    height: 80%;
+    width: 25%;
+    top: 20%;
+    left: 75%;
+}
+.box8 h2{
+    margin-top: 140%;
+    margin-left: 10%;
+}
+.box9 h2{
+    margin-top: 140%;
+    margin-left: 10%;
+}
+.box10 h2{
+    margin-top: 140%;
+    margin-left: 10%;
+}
+.box11 h2{
+    margin-top: 140%;
+    margin-left: 10%;
+}
+.section-forest{
+    position: relative;
+    height: 100vh;
+    background-image: url(../assets/forest.jpg);
+    background-position: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.content1-section-forest{
+    position: absolute;
+    height: 18%;
+    width: 40%;
+    left: 30%;
+    top: 38%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.content1-section-forest h1{
+    font-size: 40px;
+    color: white;
+    margin-top: 3%;
+}
+.b3{
+    position: absolute;
+    height: 35%;
+    width: 30%;
+    left: 32%;
+    top: 70%;
+    background-color: transparent;
+    border: 3px solid rgb(189, 189, 189);
+    font-size: 12px;
+}
+.b3 a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.section-jacket{
+    position: relative;
+    height: 100vh;
+}
+.pic-jacket{
+    position: absolute;
+    height: 80%;
+    width: 40%;
+    background-image: url(../assets/jacket.png);
+    background-size: cover;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.content-jacket{
+    position: absolute;
+    height: 80%;
+    width: 40%;
+    top: 10%;
+    left: 50%;
+}
+.content-jacket h1{
+    margin-top: 10%;
+}
+.content-jacket h5{
+    margin-top: 2%;
+}
+.content-jacket h2{
+    margin-top: 2%;
+}
+.content-jacket p{
+    margin-top: 10%;
+}
+input{
+    height: 30px;
+    width: 80px;
+    padding-left: 10%;
+    margin-top: 2%;
+}
+.inputc1{
+    height: 30px;
+    width: 30px;
+    padding-left: 20px;
+    margin-top: 2%;
+}
+.inputc2{
+    position: relative;
+    height: 35px;
+    top: 48px;
+    width: 150px;
+    margin-left: -9.5%;
+}
+.section-brands{
+    position: relative;
+    height: 30vh;
+    background-color: rgb(194, 194, 194);
+    text-align: center;
+}
+.section-brands img{
+    height: 200px;
+    width: 300px;
+    padding-left: 50px;
+}
+.section-blog{
+    position: relative;
+    height: 100vh;
+}
+.section-blog h5{
+    text-align: center;
+    margin-top: 5%;
+}
+.section-blog h1{
+    text-align: center;
+}
+.box1b{
+    position: absolute;
+    height: 80%;
+    width: 33.33%;
+    top: 20%;
+}
+.box2b{
+    position: absolute;
+    height: 80%;
+    width: 33.33%;
+    top: 20%;
+    left: 33.33%;
+}
+.box3b{
+    position: absolute;
+    height: 80%;
+    width: 33.33%;
+    top: 20%;
+    left: 66.66%;
+}
+.box1b img{
+    margin-left: 10%;
+}
+.box2b img{
+    margin-left: 10%;
+}
+.box3b img{
+    margin-left: 10%;
+}
+.box1b h3{
+    margin-left: 10%;
+}
+.box2b h3{
+    margin-left: 10%;
+}
+.box3b h3{
+    margin-left: 10%;
+}
+.box1b p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.box2b p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.box3b p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.section-stardust{
+    position: relative;
+    height: 100vh;
+    background-image: url(../assets/stardust.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.content-stardust{
+    position: absolute;
+    height: 18%;
+    width: 40%;
+    top: 38%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    line-height: 200%;
+}
+.content-stardust h1{
+    font-size: 40px;
+    color: white;
+    margin-top: 3%;
+}
+.content-stardust h5{
+    margin-left: 8%;
+}
+.b4{
+    position: absolute;
+    height: 35%;
+    width: 30%;
+    left: 15%;
+    top: 80%;
+    background-color: transparent;
+    border: 3px solid rgb(189, 189, 189);
+    font-size: 12px;
+}
+.b4 a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.section-follow{
+    position: relative;
+    height: 90vh;
+}
+.section-follow h1{
+    margin-left: 45%;
+    padding-top: 3%;
+    font-size: 40px;
+}
+.section-follow h3{
+    position: absolute;
+    left: 50%;
+    top: 2%;
+    color: orange;
+}
+.box18{
+    position: absolute;
+    height: 85%;
+    width: 25%;
+    top: 20%;
+}
+.box19{
+    position: absolute;
+    height: 85%;
+    width: 25%;
+    top: 20%;
+    left: 25%;
+}
+.box20{
+    position: absolute;
+    height: 85%;
+    width: 25%;
+    top: 20%;
+    left: 50%;
+}
+.box21{
+    position: absolute;
+    height: 85%;
+    width: 25%;
+    top: 20%;
+    left: 75%;
+}
+footer{
+    position: relative;
+    height: 20vh;
+    background-color: white;
+    color: black;
+    top: 0px;
+}
+footer .ulbar{
+    list-style: none;
+    float: left;
+    margin-left: 600px;
+}
+footer .ulbar .ulli{
+    display: inline;
+    padding: 20px;
+}
+.ulbar:hover{
+    transform: scale(1.5,1.5);
+    transition: transform,3s,3s;
+}
+h4{
+    position: absolute;
+    top: 60px;
+    left: 570px;
+    color: black;
+}
